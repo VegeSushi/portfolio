@@ -41,7 +41,7 @@
   {
     "title": "Tianlu's Gem Quest 64",
     "description": "Lights out type game for the Nintendo 64",
-    "tech": ["C++"],
+    "tech": ["C"],
     "year": 2025,
     "icon": "💎",
     "links": [
