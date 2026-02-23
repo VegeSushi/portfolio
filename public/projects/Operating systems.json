@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Protogenix",
+    "description": "Custom minimal Linux distro",
+    "tech": ["Linux"],
+    "year": 2026,
+    "icon": "🔧",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/Protogenix"
+      }
+    ]
+  },
+  {
+    "title": "Owobian",
+    "description": "Custom Debian based Linux distro",
+    "tech": ["Debian"],
+    "year": 2026,
+    "icon": "⬜",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/Owobian"
+      }
+    ]
+  },
+  {
+    "title": "BubblesOS-RPi",
+    "description": "Custom OS for the RPi 4",
+    "tech": ["Rust", "BASIC"],
+    "year": 2026,
+    "icon": "🔢",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/BubblesOS-RPi"
+      }
+    ]
+  },
+  {
+    "title": "BubblesOS",
+    "description": "Custom 16bit operating system",
+    "tech": ["C", "Assembly"],
+    "year": 2025,
+    "icon": "💾",
+    "image": "https://github.com/VegeSushi/BubblesOS/raw/main/md/Zrzut%20ekranu_20250926_194220.png?raw=true",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/BubblesOS"
+      }
+    ]
+  },
+  {
+    "title": "LynxOS-RPi",
+    "description": "Test operating sytem for the RPi 4",
+    "tech": ["Rust"],
+    "year": 2025,
+    "icon": "🔡",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/LynxOS-RPi"
+      }
+    ]
+  }
+]

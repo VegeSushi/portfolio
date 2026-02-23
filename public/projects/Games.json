@@ -1,0 +1,175 @@
+[
+  {
+    "title": "VINCE",
+    "description": "A wrapper for Allegro adding Lua support",
+    "tech": ["C++", "Lua"],
+    "year": 2025,
+    "icon": "📖",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/VINCE"
+      }
+    ]
+  },
+  {
+    "title": "Snake-SDL",
+    "description": "Snake written in C++ with SDL2 graphics",
+    "tech": ["C++"],
+    "year": 2025,
+    "icon": "🐍",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/Snake-SDL"
+      }
+    ]
+  },
+  {
+    "title": "UniverseV",
+    "description": "Multiplayer roguelike game",
+    "tech": ["BYOND"],
+    "year": 2025,
+    "icon": "🟫",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/UniverseV"
+      }
+    ]
+  },
+  {
+    "title": "Tianlu's Gem Quest 64",
+    "description": "Lights out type game for the Nintendo 64",
+    "tech": ["C++"],
+    "year": 2025,
+    "icon": "💎",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/TianlusGemQuest64"
+      }
+    ]
+  },
+  {
+    "title": "Dungeons And Furries",
+    "description": "Experimental roguelike game",
+    "tech": ["Python"],
+    "year": 2026,
+    "icon": "🦊",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/DungeonsAndFurries"
+      }
+    ]
+  },
+  {
+    "title": "Lights 2",
+    "description": "Lights out game for Windows 3.11",
+    "tech": ["Pascal"],
+    "year": 2025,
+    "icon": "💡",
+    "image": "https://img.itch.zone/aW1nLzIxMTkyOTk3LnBuZw==/347x500/s1UZYP.png",
+    "links": [
+      {
+        "label": "Itch.io page",
+        "url": "https://vegesushi.itch.io/lights-2-win-311"
+      }
+    ]
+  },
+  {
+    "title": "SokobanGB",
+    "description": "Sokoban game for the Gameboy",
+    "tech": ["C"],
+    "year": 2025,
+    "icon": "📦",
+    "image": "https://img.itch.zone/aW1nLzIxMTQxODQ2LnBuZw==/347x500/97dSDk.png",
+    "links": [
+      {
+        "label": "Itch.io page",
+        "url": "https://vegesushi.itch.io/sokobangb"
+      }
+    ]
+  },
+  {
+    "title": "Sokoban64",
+    "description": "Sokoban game for the Commodore 64",
+    "tech": ["C"],
+    "year": 2025,
+    "icon": "📦",
+    "image": "https://img.itch.zone/aW1nLzIxMTI4MzAwLnBuZw==/347x500/ncU8%2Fi.png",
+    "links": [
+      {
+        "label": "Itch.io page",
+        "url": "https://vegesushi.itch.io/sokoban64"
+      }
+    ]
+  },
+  {
+    "title": "PLANE.BAS",
+    "description": "Hole in the wall game for the Snowdrop operating system",
+    "tech": ["BASIC"],
+    "year": 2025,
+    "icon": "✈️",
+    "image": "https://img.itch.zone/aW1nLzIxNjc5NjA0LnBuZw==/347x500/zOohTo.png",
+    "links": [
+      {
+        "label": "Itch.io page",
+        "url": "https://vegesushi.itch.io/planebas"
+      }
+    ]
+  },
+  {
+    "title": "GoFish",
+    "description": "Multiplayer Go Fish game for Windows",
+    "tech": ["C#"],
+    "year": 2025,
+    "icon": "🃏",
+    "image": "https://img.itch.zone/aW1hZ2UvMzYwNTQyMi8yMTQ2MjExMC5wbmc=/347x500/0p5TXQ.png",
+    "links": [
+      {
+        "label": "Itch.io page",
+        "url": "https://vegesushi.itch.io/gofish"
+      }
+    ]
+  },
+  {
+    "title": "ChangedMP",
+    "description": "Multiplayer infection type game inspired by Changed",
+    "tech": ["Clickteam Fusion 2.5"],
+    "year": 2024,
+    "icon": "🔲",
+    "links": [
+      {
+        "label": "Download page",
+        "url": "https://chomikuj.pl/sushi19/Programy/ChangedMP,9287898087.exe(executable)"
+      }
+    ]
+  },
+  {
+    "title": "Bubs (Bubbles)",
+    "description": "Scratch 3.0 mod adding HTTP, JSON, RegEx and Xbox controller support",
+    "tech": ["JavaScript", "Scratch"],
+    "year": 2025,
+    "icon": "🦈",
+    "links": [
+      {
+        "label": "GitHub Repository (VM)",
+        "url": "https://github.com/VegeSushi/bubs-vm"
+      },
+      {
+        "label": "GitHub Repository (GUI)",
+        "url": "https://github.com/VegeSushi/bubs-gui"
+      },
+      {
+        "label": "Webpage",
+        "url": "https://sushi.sushiware.online/bubs-gui/"
+      },
+      {
+        "label": "Installer",
+        "url": "https://github.com/VegeSushi/Bubs-Installer"
+      }
+    ]
+  }
+]
