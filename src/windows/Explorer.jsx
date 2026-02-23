@@ -10,21 +10,21 @@ export default function Explorer() {
   const [openProject, setOpenProject] = useState(null); // <-- add this
 
   useEffect(() => {
-    fetch("/projects/index.json")
-      .then((res) => res.json())
-      .then((data) => setCategories(data))
-      .catch((err) => console.error(err));
+    fetch(`${import.meta.env.BASE_URL}projects/index.json`)
+      .then(res => res.json())
+      .then(data => setCategories(data))
+      .catch(err => console.error(err));
   }, []);
 
   function openCategory(category) {
-    fetch(`/projects/${category}.json`)
-      .then((res) => res.json())
-      .then((data) => {
+    fetch(`${import.meta.env.BASE_URL}projects/${category}.json`)
+      .then(res => res.json())
+      .then(data => {
         setProjects(data);
         setCurrentCategory(category);
         setView("projects");
       })
-      .catch((err) => console.error(err));
+    .catch(err => console.error(err));
   }
 
   function goBack() {
