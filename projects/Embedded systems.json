@@ -1,0 +1,54 @@
+[
+  {
+    "title": "SushiStream-M5Cardputer",
+    "description": "Video player for the M5Cardputer",
+    "tech": ["C++"],
+    "year": 2025,
+    "icon": "📺",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/SushiStream-M5Cardputer"
+      }
+    ]
+  },
+  {
+    "title": "RyuOS",
+    "description": "Custom firmware for the Raspberry Pi Pico written with RP2040-HAL",
+    "tech": ["Rust", "TCL"],
+    "year": 2026,
+    "icon": "🌌",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/RyuOS"
+      }
+    ]
+  },
+  {
+    "title": "RyuTwo",
+    "description": "Custom firmware for the Raspberry Pi Pico written with Embassy",
+    "tech": ["Rust", "TCL"],
+    "year": 2026,
+    "icon": "🌌",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/RyuTwo"
+      }
+    ]
+  },
+  {
+    "title": "Jukebox-RPi",
+    "description": "Fluidsynth based automated MIDI from CD player",
+    "tech": ["Bash"],
+    "year": 2025,
+    "icon": "💿",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/Jukebox-RPi"
+      }
+    ]
+  }
+]
