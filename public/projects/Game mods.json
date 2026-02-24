@@ -1,0 +1,42 @@
+[
+  {
+    "title": "BF-Turtle",
+    "description": "A block that interprets BF code from placed blocks. For Minetest",
+    "tech": ["Lua"],
+    "year": 2025,
+    "icon": "🐢",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/bf_turtle"
+      }
+    ]
+  },
+  {
+    "title": "Lemmings",
+    "description": "Adds Lemmings from the game of the same name to Terraria",
+    "tech": ["C#"],
+    "year": 2024,
+    "icon": "💣",
+    "image": "https://images.steamusercontent.com/ugc/2460744191154812161/BC268048C61F18A8D2C332473DE077086110C23F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+    "links": [
+      {
+        "label": "Steam Workshop",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3341316628"
+      }
+    ]
+  },
+  {
+    "title": "Sibuxiang Pillow",
+    "description": "Adds the Sibuxiang pillow to Project Zomboid",
+    "tech": ["Lua"],
+    "year": 2025,
+    "icon": "🦌",
+    "links": [
+      {
+        "label": "Steam Workshop",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3426309698"
+      }
+    ]
+  }
+]
