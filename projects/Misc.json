@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Foxxowo",
+    "description": "Owoifies webpages",
+    "tech": ["JavaScript"],
+    "year": 2025,
+    "icon": "🦊",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/Foxxowo"
+      }
+    ]
+  },
+  {
+    "title": "SNES-VP",
+    "description": "Converts video files to the SNES ROM format",
+    "tech": ["C", "Assembly", "Bash", "Makefile"],
+    "year": 2025,
+    "icon": "📼",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/SNES-VP"
+      }
+    ]
+  },
+  {
+    "title": "SushiStream-Website",
+    "description": "Video hosting site",
+    "tech": ["PHP", "JavaScript"],
+    "year": 2025,
+    "icon": "📺",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/VegeSushi/SushiStream-Website"
+      },
+      {
+        "label": "Hosted",
+        "url": "http://stream.sushiware.online"
+      }
+    ]
+  }
+]

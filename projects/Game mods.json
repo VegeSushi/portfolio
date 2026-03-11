@@ -38,5 +38,18 @@
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3426309698"
       }
     ]
+  },
+  {
+    "title": "Mercury",
+    "description": "Adds mercury to Terraria",
+    "tech": ["C#"],
+    "year": 2026,
+    "icon": "🧪",
+    "links": [
+      {
+        "label": "Steam Workshop",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3681275458"
+      }
+    ]
   }
 ]
