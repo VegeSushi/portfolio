@@ -171,5 +171,19 @@
         "url": "https://github.com/VegeSushi/Bubs-Installer"
       }
     ]
+  },
+  {
+    "title": "Lights 2600",
+    "description": "Lights Out game for the Atari 2600",
+    "tech": ["Assembly"],
+    "year": 2026,
+    "icon": "💡",
+    "image": "https://img.itch.zone/aW1nLzI2MDM3MTE3LnBuZw==/347x500/T6WWkO.png",
+    "links": [
+      {
+        "label": "Itch.io page",
+        "url": "https://vegesushi.itch.io/lights-2600"
+      }
+    ]
   }
 ]
