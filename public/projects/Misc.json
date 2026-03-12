@@ -41,5 +41,18 @@
         "url": "http://stream.sushiware.online"
       }
     ]
+  },
+  {
+    "title": "Teanet",
+    "description": "A Telnet server with commands like calc or wiki",
+    "tech": ["Go"],
+    "year": 2026,
+    "icon": "🫖",
+    "links": [
+      {
+        "label": "GitHub Repository",
+        "url": "https://github.com/vegeSushi/Teanet"
+      }
+    ]
   }
 ]
